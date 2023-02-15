@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sayalifullstackdeveloper2022.github.io/csb-g7l753/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sayalifullstackdeveloper2022.github.io/csb-g7l753/static/js/main.f1af1a8f.chunk.js",
+    "main.js.map": "https://sayalifullstackdeveloper2022.github.io/csb-g7l753/static/js/main.f1af1a8f.chunk.js.map",
+    "runtime-main.js": "https://sayalifullstackdeveloper2022.github.io/csb-g7l753/static/js/runtime-main.b775eb78.js",
+    "runtime-main.js.map": "https://sayalifullstackdeveloper2022.github.io/csb-g7l753/static/js/runtime-main.b775eb78.js.map",
+    "static/js/2.4d724f3c.chunk.js": "https://sayalifullstackdeveloper2022.github.io/csb-g7l753/static/js/2.4d724f3c.chunk.js",
+    "static/js/2.4d724f3c.chunk.js.map": "https://sayalifullstackdeveloper2022.github.io/csb-g7l753/static/js/2.4d724f3c.chunk.js.map",
+    "index.html": "https://sayalifullstackdeveloper2022.github.io/csb-g7l753/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sayalifullstackdeveloper2022.github.io/csb-g7l753/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.4d724f3c.chunk.js.LICENSE.txt": "https://sayalifullstackdeveloper2022.github.io/csb-g7l753/static/js/2.4d724f3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b775eb78.js",
+    "static/js/2.4d724f3c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f1af1a8f.chunk.js"
+  ]
+}
